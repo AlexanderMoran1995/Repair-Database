@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "anitest", "anitest_vc9.vcxproj", "{2389AD3D-A691-583E-8FE0-65993051AB61}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "REPAIR DATABASEv0.7.5", "..\REPAIR DATABASEv0.7.5\REPAIR DATABASEv0.7.5.vdproj", "{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DLL Debug|x64 = DLL Debug|x64
+		DLL Debug|x86 = DLL Debug|x86
+		DLL Release|x64 = DLL Release|x64
+		DLL Release|x86 = DLL Release|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Debug|x64.ActiveCfg = Debug|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Debug|x64.Build.0 = Debug|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Debug|x86.ActiveCfg = Debug|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Debug|x86.Build.0 = Debug|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Debug|x64.ActiveCfg = DLL Debug|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Debug|x64.Build.0 = DLL Debug|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Debug|x86.ActiveCfg = DLL Debug|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Debug|x86.Build.0 = DLL Debug|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Release|x64.ActiveCfg = DLL Release|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Release|x64.Build.0 = DLL Release|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Release|x86.ActiveCfg = DLL Release|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.DLL Release|x86.Build.0 = DLL Release|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Release|x64.ActiveCfg = Release|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Release|x64.Build.0 = Release|x64
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Release|x86.ActiveCfg = Release|Win32
+		{2389AD3D-A691-583E-8FE0-65993051AB61}.Release|x86.Build.0 = Release|Win32
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.Debug|x64.ActiveCfg = Debug
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.Debug|x86.ActiveCfg = Debug
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.Debug|x86.Build.0 = Debug
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.DLL Debug|x64.ActiveCfg = Debug
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.DLL Debug|x86.ActiveCfg = Debug
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.DLL Release|x64.ActiveCfg = Release
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.DLL Release|x86.ActiveCfg = Release
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.Release|x64.ActiveCfg = Release
+		{B717CE03-1D5C-4407-AD4E-B74FC95B1BE7}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDFE1B42-F14F-40E7-9E01-120869497B5B}
+	EndGlobalSection
+EndGlobal
